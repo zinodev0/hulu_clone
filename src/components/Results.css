@@ -1,0 +1,11 @@
+.results > div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 40px 0;
+}
+
+.results > .MuiCircularProgress-root {
+  display: inline-block !important;
+  margin: 23vh 45%;
+}
